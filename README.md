@@ -15,6 +15,9 @@ ImageRAT is a comprehensive Android surveillance and remote administration tool 
   </a>
   </p>
 
+![ImageRAT](imageRAT.png)
+
+
 
 ## Core Features
 
